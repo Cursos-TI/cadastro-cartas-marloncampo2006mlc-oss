@@ -67,7 +67,7 @@ int main() {
     int compArea = area1 > area2;
     int compPib = pib1 > pib2;
     int compPontos = pontos1 > pontos2;
-    int compDensidade = densidade1 < densidade2; // menor vence!
+    int compDensidade = densidade1 < densidade2; 
     int compPibCapita = pibPerCapita1 > pibPerCapita2;
     int compSuper = super1 > super2;
 
